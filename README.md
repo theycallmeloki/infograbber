@@ -1,6 +1,6 @@
 # Info Grabber
 
-![](https://imgur.com/8mQsCCk)
+![](https://i.imgur.com/8mQsCCk.png)
 
 ## Background
 
